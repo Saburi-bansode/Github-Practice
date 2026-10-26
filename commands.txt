@@ -1,0 +1,13 @@
+  480  ls
+  481  git init
+  482  git status
+  483  git add .
+  484  git status
+  485  git commit -m "added Testing files"
+  486  git status
+  487  git rm Testing.py
+  488  git status
+  489  git restore Testing.py
+  490  git restore --staged Testing.py
+  491  git restore Testing.py
+  492  git status
