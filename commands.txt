@@ -25,3 +25,7 @@ git status
 git add commands.txt
 git commit -m "fixed commands file"
 git push
+
+
+
+This is some new chnages
