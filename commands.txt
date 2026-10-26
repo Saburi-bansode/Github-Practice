@@ -13,3 +13,15 @@ git restore Testing.py
 git statusgit remote -v
 git push -u origin master
 history
+508  git commit -m "updated commands file"
+git push
+git push -u origin master
+git remote -v
+git remote set-url origin  https://github.com/Saburi-bansode/Github-Practice.git
+git status
+cat commands.txt
+git remote -v
+git status
+git add commands.txt
+git commit -m "fixed commands file"
+git push
